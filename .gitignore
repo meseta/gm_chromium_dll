@@ -31,6 +31,8 @@
 *.out
 *.app
 
+.vs
+
 cef3/include
 cef3/lib
 Release
